@@ -1,6 +1,6 @@
 House Price Prediction using Machine Learning
-<br>👨‍💻 Author
-
+<br>
+👨‍💻 Author
 Krishna Vadher
 <br>
 
