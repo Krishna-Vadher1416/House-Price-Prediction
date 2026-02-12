@@ -1,8 +1,8 @@
 House Price Prediction using Machine Learning
-👨‍💻 Author
+<br>👨‍💻 Author
 
 Krishna Vadher
-B.E. ICT | AI/ML Enthusiast | GFG Campus Mantri
+<br>
 
 📌 Project Overview
 
